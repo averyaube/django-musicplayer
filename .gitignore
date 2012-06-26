@@ -1,2 +1,3 @@
 *.sqlite3
 media/songs/*.mp3
+*.pyc
